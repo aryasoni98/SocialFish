@@ -54,7 +54,7 @@ Using image
 $ sudo docker run -it --rm "socialfish"
 ```
 
-**VIDEO DEMO:** [#]
+**VIDEO DEMO:** [https://youtu.be/PWXxz_FljKU?t=5 --Demo]
 
 
 ### AVAILABLE PAGES
