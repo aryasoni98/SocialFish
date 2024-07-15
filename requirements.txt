@@ -1,4 +1,4 @@
-setuptools == 65.5.1
+setuptools == 70.0.0
 requests
 
 # core/email.py: 1
